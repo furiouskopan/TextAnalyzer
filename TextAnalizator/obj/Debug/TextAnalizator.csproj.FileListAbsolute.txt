@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\bin\Debug\TextAnalizator.exe.config
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\bin\Debug\TextAnalizator.exe
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\bin\Debug\TextAnalizator.pdb
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.Form1.resources
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.Properties.Resources.resources
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.exe
+C:\Users\user\Desktop\Text Analizator\TextAnalizator\TextAnalizator\obj\Debug\TextAnalizator.pdb
